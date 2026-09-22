@@ -1,2 +1,2 @@
-# 60-days-challange
+# Structured coding challenge
 Daily practice problems to improve my programming logic.
